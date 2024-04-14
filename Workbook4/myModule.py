@@ -1,7 +1,7 @@
 """
 My First Module
 """
-word = 'Hello World! my name is Franz Peter Joseph D. Braga'
+word = 'Hello World! my name is Bea'
 
 def calculateLoan(months_Contribution) :
     """
